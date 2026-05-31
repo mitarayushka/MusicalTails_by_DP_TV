@@ -2,13 +2,13 @@
 <GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <HighScores>
     <HighScore>
-      <PlayerName>иляна</PlayerName>
+      <PlayerName>дарина</PlayerName>
       <Score>5160</Score>
       <Difficulty>2</Difficulty>
       <Date>2025-06-02T19:01:58.2816748+03:00</Date>
     </HighScore>
     <HighScore>
-      <PlayerName>алина</PlayerName>
+      <PlayerName>тимур</PlayerName>
       <Score>2200</Score>
       <Difficulty>2</Difficulty>
       <Date>2025-06-05T01:29:52.1845591+03:00</Date>
@@ -20,7 +20,7 @@
       <Date>2025-06-02T19:01:58.2875006+03:00</Date>
     </HighScore>
     <HighScore>
-      <PlayerName>Игрок</PlayerName>
+      <PlayerName>амина</PlayerName>
       <Score>2140</Score>
       <Difficulty>2</Difficulty>
       <Date>2025-06-02T19:01:58.2875366+03:00</Date>
@@ -38,7 +38,7 @@
       <Date>2025-06-02T19:01:58.2875407+03:00</Date>
     </HighScore>
     <HighScore>
-      <PlayerName>алина</PlayerName>
+      <PlayerName>айса</PlayerName>
       <Score>1800</Score>
       <Difficulty>2</Difficulty>
       <Date>2025-06-05T01:30:17.4534728+03:00</Date>
